@@ -1,5 +1,6 @@
 https://github.com/heroku/heroku-buildpack-ruby.git
 https://github.com/mattmanning/heroku-buildpack-ruby-jekyll.git
+https://github.com/jgarber/heroku-buildpack-ruby-octopress
 https://github.com/heroku/heroku-buildpack-nodejs.git
 https://github.com/heroku/heroku-buildpack-java.git
 https://github.com/heroku/heroku-buildpack-play.git
